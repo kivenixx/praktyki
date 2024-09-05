@@ -1,49 +1,51 @@
 ﻿namespace zadanie2 {
 	internal class Program {
 		public interface ZwierzeAkcje {
-			void Polowanie();
-			void Jedzenie();
-			void Spanie();
-			void Spacerowanie();
+			void Poluj();
+			void Jedz();
+			void Spij();
+			void Spaceruj();
 		}
 		public class Kot : ZwierzeAkcje {
-			public void Polowanie() {
+			public void Poluj() {
 				Console.WriteLine("Kot poluje");
 			}
-			public void Jedzenie() {
+			public void Jedz() {
                 Console.WriteLine("Kot je");
 			}
-			public void Spanie() {
+			public void Spij() {
                 Console.WriteLine("Kot śpi");
 			}
-			public void Spacerowanie() {
+			public void Spaceruj() {
                 Console.WriteLine("Kot spaceruje");
 			}
-			public void Mruczenie() {
+
+			public void Mrucz() {
 				Console.WriteLine("Kot mruczy");
 			}
-			public void Wspinanie() {
+			public void WspinajSie() {
                 Console.WriteLine("Kot się wspina");
 			}
 		}
 
-		public class Pies() {
-			public void Polowanie() {
+		public class Pies : ZwierzeAkcje {
+			public void Poluj() {
 				Console.WriteLine("Pies poluje");
 			}
-			public void Jedzenie() {
+			public void Jedz() {
 				Console.WriteLine("Pies je");
 			}
-			public void Spanie() {
+			public void Spij() {
 				Console.WriteLine("Pies śpi");
 			}
-			public void Spacerowanie() {
+			public void Spaceruj() {
 				Console.WriteLine("Pies spaceruje");
 			}
-			public void Bieganie() {
-				Console.WriteLine("Pies biega");
+
+			public void Aportuj() {
+				Console.WriteLine("Pies aportuje");
 			}
-			public void Plywanie() {
+			public void Plywaj() {
 				Console.WriteLine("Pies pływa");
 			}
 		}
