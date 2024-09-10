@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13d80ed2-e1e6-45ba-b7d9-47ebd3927015" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/example/zadanie1/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/example/zadanie1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/example/zadanie1/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/example/zadanie1/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/example/zadanie1/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/obraz9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa406.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/_0ac4e047_b792_476c_99f9_593fc67daa408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/obraz1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/obraz2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/obraz3/obraz3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/test/java/com/example/zadanie1/ExampleUnitTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kivenixx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kivenixx/praktyki.git",
+    "accountId": "5e6b3c53-7c2e-44ea-9d07-b4b1cd323e45"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ltlzoM5EY8FgeXyOdDEkJ1B8fe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Olivier/source/repos/praktyki/tydzien2/zadanie1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13d80ed2-e1e6-45ba-b7d9-47ebd3927015" name="Changes" comment="" />
+      <created>1726007518441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726007518441</updated>
+    </task>
+    <servers />
+  </component>
+</project>
