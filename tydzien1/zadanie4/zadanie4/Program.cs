@@ -1,5 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 
 namespace zadanie4 {
 	internal class Program {
@@ -17,21 +16,17 @@ namespace zadanie4 {
 
 			pracownik.ObliczPensje();
 
-			Console.WriteLine($"Pensja pracownika {pracownik.name} o funkcji {pracownik.function} wynosi: " +
-							  $"{pracownik.salary1} zł, {pracownik.salary2} zł, {pracownik.salary3} zł.");
+			Console.WriteLine($"Pensja pracownika {pracownik.name} wynosi: {pracownik.salary} zł.");
 		}
 	}
 	public class Pracownik {
 		public string name;
 		public string function;
 		public int age;
-		public double salary1;
-		public double salary2;
-		public double salary3;
-		double rate = 0;
-		Random random = new Random();
+		public double salary;
 
 		public void ObliczPensje() {
+			double rate = 0;
 
 			switch (function.ToLower()) {
 				case "kierowca":
@@ -48,9 +43,7 @@ namespace zadanie4 {
 					return;
 			}
 
-			salary1 = Math.Round(rate * 1.1 * age, 2);
-			salary2 = Math.Round(rate * salary1 * age, 2);
-			salary3 = Math.Round(rate * (random.NextDouble() * 1.9 + 0.1) * age, 2);
+			salary = Math.Round(rate * 1.1 * age, 2);
 		}
 	}
 }
