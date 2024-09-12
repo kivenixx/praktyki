@@ -36,37 +36,19 @@ class MainActivity : ComponentActivity() {
                         verticalArrangement = Arrangement.Center
                     ) {
                         Row {
-                            Obraz(
-                                imageId = R.drawable.obraz1
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz2
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz3
-                            )
+                            Obraz(imageId = R.drawable.obraz1)
+                            Obraz(imageId = R.drawable.obraz2)
+                            Obraz(imageId = R.drawable.obraz3)
                         }
                         Row {
-                            Obraz(
-                                imageId = R.drawable.obraz4
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz5
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz6
-                            )
+                            Obraz(imageId = R.drawable.obraz4)
+                            Obraz(imageId = R.drawable.obraz5)
+                            Obraz(imageId = R.drawable.obraz6)
                         }
                         Row {
-                            Obraz(
-                                imageId = R.drawable.obraz7
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz8
-                            )
-                            Obraz(
-                                imageId = R.drawable.obraz9
-                            )
+                            Obraz(imageId = R.drawable.obraz7)
+                            Obraz(imageId = R.drawable.obraz8)
+                            Obraz(imageId = R.drawable.obraz9)
                         }
                     }
                 }
